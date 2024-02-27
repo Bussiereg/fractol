@@ -6,7 +6,6 @@ Fractol is a the first graphical project of 42. It is a tool designed to explore
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 - [Installation](#installation)
 
 ## Introduction
@@ -17,16 +16,6 @@ Fractals are fascinating mathematical objects that exhibit intricate patterns at
 
 - **Fractal Generation**: Generate popular fractals such as Mandelbrot Set and Julia Set
 - **Interactive Visualization**: Zoom and explore fractals in real-time to discover their intricate details.
-
-## Usage
-
-To use Fractol, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the Fractol executable with the following parameter.
-    - ./fractol Mandelbrot
-    - ./fractil Julia
 
 ## Installation
 
@@ -44,9 +33,13 @@ To install Fractol, follow these steps:
     cd fractol
     ```
 
-3. Build the project with the command: make
+3. Build the project with the following command: make
 
 4. Run the executable generated after the build process.
-   - ./fractol Mandelbrot
-   - ./fractol Julia
+    ```bash
+    ./fractol Julia -0.8 0.156
+    ```
+    ```bash
+    ./fractol Mandelbrot
+    ```
 
