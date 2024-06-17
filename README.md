@@ -33,16 +33,19 @@ To install Fractol, follow these steps:
     cd fractol
     ```
 
-3. Build the project with the following command: make
+3. Build the project with the following command:
+   ```bash
+    make
+    ```
 
-4. Run the executable generated after the build process.
+5. Run the executable generated after the build process.
    - Mandelbrot set:
    ```bash
     ./fractol Mandelbrot
     ```
    
    - Julia set : you can generate different fractol playing with the 2 parameters after the Julia argument.
-     For instance the 2 following example creates nice fractals:
+     For instance the 2 following examples create beautiful fractals:
      
     ```bash
     ./fractol Julia -0.8 0.156
