@@ -2,11 +2,14 @@
 
 Fractol is a the first graphical project of 42. It is a tool designed to explore and visualize fractals.
 
+![Alt Text](gif_and_image/Mandelbrot.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Fractal explorer](#explorer)
 
 ## Introduction
 
@@ -15,7 +18,7 @@ Fractals are fascinating mathematical objects that exhibit intricate patterns at
 ## Features
 
 - **Fractal Generation**: Generate popular fractals such as Mandelbrot Set and Julia Set
-- **Interactive Visualization**: Zoom and explore fractals in real-time to discover their intricate details.
+- **Interactive Visualization**: Zoom in real-time to explore fractals, dynamically adjusting based on mouse position for detailed examination of specific areas.
 
 ## Installation
 
@@ -54,5 +57,12 @@ To install Fractol, follow these steps:
     ```bash
     ./fractol Julia 0 1
     ```
-   
+## Explorer
 
+### Mandelbrot
+
+![Demo GIF](gif_and_image/Mandelbrot.gif)
+
+### Julia
+
+![Demo GIF](gif_and_image/Julia.gif)
