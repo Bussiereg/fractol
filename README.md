@@ -13,7 +13,7 @@ Fractol is a the first graphical project of 42. It is a tool designed to explore
 
 ## Introduction
 
-Fractals are fascinating mathematical objects that exhibit intricate patterns at every scale. Fractol provides a platform to generate, visualize, and explore various types of fractals. Whether you're a mathematician, a computer scientist, or simply curious about fractals, Fractol offers an intuitive interface to interact with these mesmerizing structures.
+Fractals are fascinating mathematical objects that exhibit intricate patterns at every scale. Fractol provides a platform to generate, visualize, and explore various types of fractals. Whether you're a mathematician, a computer scientist, or simply curious about fractals, fractol offers an intuitive interface to interact with these mesmerizing structures.
 
 ## Features
 
